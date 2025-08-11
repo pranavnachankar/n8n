@@ -3,7 +3,7 @@
 This n8n workflow automates the process of generating AI videos using Google Veo3, saving them to Google Drive, and subsequently uploading them to YouTube. The workflow is triggered manually or on a schedule, generates video descriptions using Google Gemini, creates videos via the Veo3 API, waits for video processing, and then downloads the final video.
 
 ## Workflow
-![n8n Workflow Screenshot](Generate AI Videos with Google Veo3, Save it locally.png)
+![n8n Workflow Screenshot](https://raw.githubusercontent.com/pranavnachankar/n8n/refs/heads/main/Generate%20AI%20Videos%20with%20Google%20Veo3%2C%20Save%20it%20locally.png)
 
 ## 🚀 Features
 

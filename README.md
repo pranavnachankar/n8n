@@ -1,7 +1,3 @@
-Certainly! Here's a `README.md` file for your n8n workflow, "Generate AI Videos with Google Veo3, Save to Google Drive and Upload to YouTube," based on the provided JSON.
-
-***
-
 # Generate AI Videos with Google Veo3, Save to Google Drive and Upload to YouTube
 
 This n8n workflow automates the process of generating AI videos using Google Veo3, saving them to Google Drive, and subsequently uploading them to YouTube. The workflow is triggered manually or on a schedule, generates video descriptions using Google Gemini, creates videos via the Veo3 API, waits for video processing, and then downloads the final video.

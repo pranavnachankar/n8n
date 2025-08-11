@@ -6,6 +6,9 @@ Certainly! Here's a `README.md` file for your n8n workflow, "Generate AI Videos 
 
 This n8n workflow automates the process of generating AI videos using Google Veo3, saving them to Google Drive, and subsequently uploading them to YouTube. The workflow is triggered manually or on a schedule, generates video descriptions using Google Gemini, creates videos via the Veo3 API, waits for video processing, and then downloads the final video.
 
+## Workflow
+![n8n workflow for Google Veo3 video generation](Generate AI Videos with Google Veo3, Save it locally.png)
+
 ## 🚀 Features
 
 * **Manual and Scheduled Triggers**: Run the workflow on demand or at predefined intervals.
